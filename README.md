@@ -45,8 +45,11 @@ Sin las variables, sería mucho más difícil crear programas útiles o interact
 
 
 NOMBRE_PAGINA = "Mi Página Personal"
+
 usuario = "María Fernanda"
+
 mensaje = f"Hola, {usuario}, bienvenida a {NOMBRE_PAGINA} "
+
 print(mensaje) 
 
 ## Reflexion personal sobre lo aprendido.
