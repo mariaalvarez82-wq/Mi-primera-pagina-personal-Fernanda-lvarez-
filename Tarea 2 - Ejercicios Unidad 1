@@ -50,7 +50,7 @@
        adelante(pasos_adelante)
        abajo(pasos_abajo)"
  
-      ##Reto 5 La tortuga baja las escalones##
+      ## Reto 5 La tortuga baja las escalones ##
 
       ""pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
        pasos_abajo = int(input("¿Cuántos pasos baja la tortuga? "))
