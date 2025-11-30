@@ -1,11 +1,13 @@
-       ## Maria Fernanda Alvarez Rios ##
+                   # Maria Fernanda Alvarez Rios #
+                   
 
  
-          # Tarea 2 - Ejercicios Unidad 1 #
+                   # Tarea 2 - Ejercicios Unidad 1 #
+                   
 
 
 
-        ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ##
+          ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ##
         
 
          "pasos = 10
