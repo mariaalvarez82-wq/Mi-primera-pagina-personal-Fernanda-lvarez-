@@ -1,27 +1,27 @@
-                   # Maria Fernanda Alvarez Rios #
+                    # Maria Fernanda Alvarez Rios #
                    
-
  
-                   # Tarea 2 - Ejercicios Unidad 1 #
-                   
+                    # Tarea 2 - Ejercicios Unidad 1 #
+                    
 
 
-          ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ## 
+           ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ## 
           
         
           "pasos = 50
           print("creando tortuga simulada que da...", pasos, "pasos")
           print("-" * pasos + ">")"
 
+
            #Reto 2 Tortuga bajando#
            
            
-      "pasos = 10
-for i in range(pasos):
-    print("|")   
-  print("V")
+        "pasos = 10
+        for i in range(pasos):
+        print("|")   
+         print("V")
 
- print("La tortuga bajo",pasos,"pasos.")"
+            print("La tortuga bajo",pasos,"pasos.")"
 
 
         ## Reto 3 Girar y dibujar usando solo print() e input() ##
