@@ -1,4 +1,4 @@
-                  "# Maria Fernanda Alvarez Rios #"
+                   # Maria Fernanda Alvarez Rios #
                    
 
  
@@ -7,15 +7,16 @@
 
 
 
-          ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ##
+          ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ## 
+          
         
 
-         "pasos = 10
+           ""pasos = 10
         for i in range(pasos):
         print("|")   
         print("V")
 
-        print("La tortuga bajo",pasos,"pasos.")"
+         print("La tortuga bajo",pasos,"pasos.")"
 
         
 
