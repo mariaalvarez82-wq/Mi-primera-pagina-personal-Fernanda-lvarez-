@@ -9,8 +9,8 @@
           
         
         pasos = 50
-print("Creando tortuga simulada que da...", pasos, "pasos")
-print("-" * pasos + ">")
+   print("Creando tortuga simulada que da...", pasos, "pasos")
+   print("-" * pasos + ">")
 
 
            #Reto 2 Tortuga bajando#
