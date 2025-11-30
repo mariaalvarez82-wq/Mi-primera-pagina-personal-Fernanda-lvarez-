@@ -24,7 +24,7 @@
     for i in range(posicion):
         print("|")   # rastro vertical
 
-    print("🐢")  # la tortuga
+    print("T")  # la tortuga
 
     posicion += 1"
 
