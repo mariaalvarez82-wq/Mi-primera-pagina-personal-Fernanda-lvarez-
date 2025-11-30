@@ -1,8 +1,12 @@
        ## Maria Fernanda Alvarez Rios ##
 
-         # Tarea 2 - Ejercicios Unidad 1 #
+ 
+          # Tarea 2 - Ejercicios Unidad 1 #
+
+
 
         ## Reto 1 simula el comportamiento de la tortuga usando solo print() e input() ##
+        
 
          "pasos = 10
         for i in range(pasos):
@@ -11,7 +15,12 @@
 
         print("La tortuga bajo",pasos,"pasos.")"
 
+        
+
+    
         ## Reto 3 Girar y dibujar usando solo print() e input() ##
+
+
 
         "pasos_bajada = 15
         pasos_adelante = 10
@@ -30,12 +39,16 @@
           print("La tortuga bajo", pasos_bajada, "pasos.")
           print("La tortuga recorrió un total de", pasos_totales, "pasos.")"
 
+          
+
           ## Reto 4 Encapsula los comportamientos anteriores usando funciones ##
 
-           pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
+          
+
+          " pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
            pasos_abajo = int(input("¿Cuántos pasos baja la tortuga? "))
 
-         def adelante(pasos):
+          def adelante(pasos):
             global pasos_adelante
             pasos_adelante = pasos
             print("-" * pasos + ">")
@@ -49,8 +62,12 @@
 
        adelante(pasos_adelante)
        abajo(pasos_abajo)"
+
+
  
       ## Reto 5 La tortuga baja las escalones ##
+
+      
 
       ""pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
        pasos_abajo = int(input("¿Cuántos pasos baja la tortuga? "))
