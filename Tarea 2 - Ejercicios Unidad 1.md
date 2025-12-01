@@ -55,28 +55,14 @@
 
 # Reto 5 La tortuga baja las escalones
 
-         pasos_adelante = int(input("¿Cuántos pasos avanza la tortuga? "))
-         pasos_abajo = int(input("¿Cuántos pasos baja la tortuga? "))
+        def  Escalón 1
+        adelante(5)
+        abajo(2)
 
-         posicion_x = 0
-         posicion_y = 0
+       def  Escalón 2
+       adelante(5)
+       abajo(2)
 
-         def adelante(pasos):
-         global posicion_x, posicion_y
-         print(" " * posicion_x + "-" * pasos + ">")
-         posicion_x += pasos
-
-         def abajo(pasos):
-         global posicion_x, posicion_y
-
-        for i in range(pasos):
-        print(" " * posicion_x + "|")
-    
-        print(" " * posicion_x + "V")
-
-        posicion_y += pasos
-
-         adelante(pasos_adelante)
-          abajo(pasos_abajo)
-                   
- 
+      def Escalón 3
+      adelante(5)
+      abajo(2)
