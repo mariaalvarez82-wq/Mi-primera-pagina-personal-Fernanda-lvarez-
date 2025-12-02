@@ -9,9 +9,7 @@
   
 
 # Reto 2 Tortuga bajando
-         pasos = 10
-         for i in range(pasos):
-         print("|")   
+         pasos = 1
          print("V")"
          print("La tortuga bajo",pasos,"pasos.")
   
